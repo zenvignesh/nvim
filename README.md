@@ -1,0 +1,2 @@
+# nvim
+Linux nvim configuration 
